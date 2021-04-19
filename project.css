@@ -258,7 +258,7 @@ color: #999;
 	left: 0;
 }
 #about .about-img {
-	
+	background: #444 url("aboutus.jpg") center center no-repeat;
 	background-size: cover;
 	height: 570px;
 }
